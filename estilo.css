@@ -175,7 +175,7 @@ body {
 
 .formulario-cita input:focus,
 .formulario-cita textarea:focus {
-    outline: 2px solid #f5a800;
+    outline: 2px solid #f4b327;
 }
 
 .formulario-cita textarea {
